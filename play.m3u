@@ -61,6 +61,9 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifes
 #EXTINF:-1 tvg-id="ts426" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png" ,Raj Digital Plus
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd
 
+#EXTINF:-1 group-title="Regional Tamil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647" ,Sun Music HD
+http://myteve.online:8080/34223073/2cdb1b8d70/157496
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KyaCNtyW5l6rKF0FPwz0OA", "kid":"L5Ys7t2eXHCVQ84yU6ci7g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts199" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" ,Jaya Max
