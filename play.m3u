@@ -137,6 +137,9 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifes
 #EXTINF:-1 tvg-id="ts524" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png" ,Thanthi TV
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd
 
+#EXTINF:-1, group-title="Regional Tamil " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614",Sun News
+http://myteve.online:8080/34223073/2cdb1b8d70/295303
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nw7dR6w50P11n6UiDegBBQ", "kid":"GzVEpdtZXW+STAsKsdGRgw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts21" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66-j5ff8qio-v1/imageContent-66-j5ff8qio-m1.png" ,News 7 Tamil
