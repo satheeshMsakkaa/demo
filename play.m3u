@@ -91,6 +91,9 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifes
 #EXTINF:-1 tvg-id="ts797" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" ,Zee Thirai
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047" group-title="TAMIL",Tamil | Star Vijay Super
+http://go.justflix.tv:80/2245356388/2245356388/822
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eYsoJSGg8JmhvM9mynlqoQ", "kid":"eDHB2UTdWRiJzE8uYbWyBQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts37" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" ,Mega TV
