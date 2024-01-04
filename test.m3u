@@ -780,8 +780,6 @@ http://go.justflix.tv:80/2245356388/2245356388/284
 http://go.justflix.tv:80/2245356388/2245356388/286
 #EXTINF:-1 tvg-id="" tvg-name="Tamil | Zee Tamil HD" tvg-logo="" group-title="TAMIL",Tamil | Zee Tamil HD
 http://go.justflix.tv:80/2245356388/2245356388/287
-#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun TV HD" tvg-logo="" group-title="TAMIL",Tamil | Sun TV HD
-http://go.justflix.tv:80/2245356388/2245356388/295
 #EXTINF:-1 tvg-id="" tvg-name="Tamil | Color Tamil HD" tvg-logo="" group-title="TAMIL",Tamil | Color Tamil HD
 http://go.justflix.tv:80/2245356388/2245356388/269
 #EXTINF:-1 tvg-id="" tvg-name="Tamil | SUNXT KTV HD" tvg-logo="" group-title="TAMIL",Tamil | SUNXT KTV HD
@@ -798,41 +796,3 @@ http://go.justflix.tv:80/2245356388/2245356388/274
 http://go.justflix.tv:80/2245356388/2245356388/236
 #EXTINF:-1 tvg-id="" tvg-name="Tamil | Sony PIX HD" tvg-logo="" group-title="TAMIL",Tamil | Sony PIX HD
 http://go.justflix.tv:80/2245356388/2245356388/234
-#EXTINF:-1,IN: Star Maa Movies
-http://myteve.online:8080/34223073/2cdb1b8d70/82624
-#EXTINF:-1,IN: Star Movies
-http://myteve.online:8080/34223073/2cdb1b8d70/11511
-#EXTINF:-1,IN: Star Movies Select
-http://myteve.online:8080/34223073/2cdb1b8d70/267542
-#EXTINF:-1,IN: Star Plus
-http://myteve.online:8080/34223073/2cdb1b8d70/16091
-#EXTINF:-1,IN: Star Pravah
-http://myteve.online:8080/34223073/2cdb1b8d70/193149
-#EXTINF:-1,IN: Star Sports 1
-http://myteve.online:8080/34223073/2cdb1b8d70/3630
-#EXTINF:-1,IN: Star Sports 2
-http://myteve.online:8080/34223073/2cdb1b8d70/3631
-#EXTINF:-1,IN: Star Sports 3
-http://myteve.online:8080/34223073/2cdb1b8d70/62584
-#EXTINF:-1,IN: Star Sports Select 1
-http://myteve.online:8080/34223073/2cdb1b8d70/82628
-#EXTINF:-1,IN: Star Sports Select 2
-http://myteve.online:8080/34223073/2cdb1b8d70/16619
-#EXTINF:-1,IN: Star Suvarna
-http://myteve.online:8080/34223073/2cdb1b8d70/193147
-#EXTINF:-1,IN: Star Vijay
-http://myteve.online:8080/34223073/2cdb1b8d70/19744
-#EXTINF:-1,IN: Steelbird Music
-http://myteve.online:8080/34223073/2cdb1b8d70/49650
-#EXTINF:-1,IN: Subhavaartha TV
-http://myteve.online:8080/34223073/2cdb1b8d70/166397
-#EXTINF:-1,IN: Sudarshan News
-http://myteve.online:8080/34223073/2cdb1b8d70/193077
-#EXTINF:-1,IN: Sun Life
-http://myteve.online:8080/34223073/2cdb1b8d70/267819
-#EXTINF:-1,IN: Sun Music
-http://myteve.online:8080/34223073/2cdb1b8d70/157496
-#EXTINF:-1,IN: Sun News
-http://myteve.online:8080/34223073/2cdb1b8d70/295303
-#EXTINF:-1,IN: Sun TV
-http://myteve.online:8080/34223073/2cdb1b8d70/76969
