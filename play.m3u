@@ -18,9 +18,6 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifes
 #EXTINF:-1 tvg-id="ts608" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" ,Zee Tamil HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SUNXT | Adithya TV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="TAMIL",SUNNXT | Adithya TV 
-http://go.justflix.tv:80/2245356388/2245356388/286
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OpU/iN8yvIiHSYCkaHw1zw", "kid":"Wk97lUv3UEqnQOcMMMktsA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts708" group-title="Regional Telugu " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" ,Jaya TV HD
@@ -31,20 +28,13 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifes
 #EXTINF:-1 tvg-id="ts674" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" ,Colors Tamil HD
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="SUNXT | Adithya TV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="TAMIL",SUNNXT | Adithya TV 
+http://go.justflix.tv:80/2245356388/2245356388/286
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qlPfbRe8wpLhTM34JEgMmg", "kid":"UwgwvYnUUSqtZsjs1S4LwA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts474" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" ,Sun Life
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMZn2iB6JJAsvtkwhpFnqA", "kid":"2hF5XNSbVri9/Am4onNFwA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="ts257" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png" ,Zee Tamil
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jZQvkqr+iX/dv+3bDqHdaA", "kid":"KLR5oLF9XBGr5tYw9H45ig"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="ts418" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" ,Colors Tamil
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ht4MYuu2uCOjYE78nngeeg", "kid":"BYeby7GEX/61DENQyWiweA"}],"type":"temporary"}
@@ -212,6 +202,16 @@ http://go.justflix.tv:80/2245356388/2245356388/203
 
 #EXTINF:-1 tvg-id="" tvg-name="SUNXT | Sun Life " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILSUNLIFE.png" group-title="TAMIL",SUNXT | Sun Life 
 http://go.justflix.tv:80/2245356388/2245356388/282
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMZn2iB6JJAsvtkwhpFnqA", "kid":"2hF5XNSbVri9/Am4onNFwA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts257" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png" ,Zee Tamil
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jZQvkqr+iX/dv+3bDqHdaA", "kid":"KLR5oLF9XBGr5tYw9H45ig"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts418" group-title="Regional Tamil " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" ,Colors Tamil
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEK73AoHIm3sPe/x5XdlpQ", "kid":"GZPEZ3lSXCCWbYHL/bwi1g"}],"type":"temporary"}
@@ -1022,23 +1022,6 @@ https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
 #EXTINF:-1 tvg-id="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Kids",Disney HD 2
 https://kingkohli.pages.dev/Play/DisneyHD_Alpha_index.m3u8
 
-#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama TV
-https://ao2v.short.gy/Hun_pkg.m3u8
-
-#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama TV 2
-https://ao2v.short.gy/Hun_Denver2.m3u8
-
-#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama TV 2
-https://kingkohli.pages.dev/Play/Hungama_OpplexTV_index.m3u8
-
-#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama Tamil 
-https://kingkohli.pages.dev/Play/HungamaTamil_Watch_index.m3u8
-
-#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama
-http://103.186.77.21:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ODsuFgTFIW5M-HTyAdIQu_ycabCOqlTxhA&usqp=CAU" group-title="Kids",Shinchan 24×7
-https://ao2v.short.gy/Shin-Chan_24_7_Denver.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
