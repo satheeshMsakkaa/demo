@@ -1,5 +1,15 @@
-#EXTINF:-1,SUN NEWS TAMIL
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1a:79:4b:66:ae&stream=155890&extension=ts&play_token=85vxkcPsPc
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL: MK Tunes" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL: MK Tunes
+http://xtv.ooo:8080/87658765/91747291/244621
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL: MK TV" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL: MK TV
+http://xtv.ooo:8080/87658765/91747291/244541
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Star Vijay Super" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Star Vijay Super
+http://xtv.ooo:8080/87658765/91747291/244622
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL: Sun News" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL: Sun News
+http://xtv.ooo:8080/87658765/91747291/244525
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_IBC Tamil HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_IBC Tamil HD
+http://xtv.ooo:8080/87658765/91747291/244558
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_IBC Music" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_IBC Music
+http://xtv.ooo:8080/87658765/91747291/244559
 #EXTINF:-1,IN: 3 Tamil TV
 http://myteve.online:8080/34223073/2cdb1b8d70/60420
 #EXTINF:-1,IN: 1st India
