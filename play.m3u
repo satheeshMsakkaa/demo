@@ -18,33 +18,25 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifes
 #EXTINF:-1 tvg-id="ts1182" tvg-logo="https://tatalogo.pages.dev/1182.png" group-title="Movies",Zee Thirai HD
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="ts200" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png1418.jpg" group-title="Tamil",Sun Music HD
+#EXTINF:-1 tvg-id="ts200" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647" group-title="Tamil",Sun Music HD
 http://tgaadi-web.tech/aadi.php?id=652
 
 
-#EXTINF:-1 tvg-id="ts200" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png1418.jpg" group-title="Tamil",Vijay Super HD
+#EXTINF:-1 tvg-id="ts200" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047" group-title="Tamil",Vijay Super HD
 http://tgaadi-web.tech/aadi.php?id=831
-
-#EXTINF:-1 tvg-id="ts24" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" group-title="Sports",Star Sports 1 Tamil HD
-http://tgaadi-web.tech/TG_AADI.php?id=9693
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=608
 #EXTINF:-1 tvg-id="ts608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="SUNXT | Adithya TV " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="TAMIL",SUNNXT | Adithya TV 
+http://go.justflix.tv:80/2245356388/2245356388/286
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=474
 #EXTINF:-1 tvg-id="ts474" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Tamil",Sun Life
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=1167
-#EXTINF:-1 tvg-id="ts1167" tvg-logo="https://tatalogo.pages.dev/1167.png" group-title="None",Tata Play Hollywood Local Tamil
-https://delta13tatasky.akamaized.net/out/i/6282177.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=674
@@ -56,6 +48,10 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifes
 #EXTINF:-1 tvg-id="ts200" tvg-logo="https://tatalogo.pages.dev/200.png" group-title="Tamil",Kalaignar TV
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=411
+#EXTINF:-1 tvg-id="ts411" tvg-logo="https://tatalogo.pages.dev/411.png" group-title="Tamil",Murasu TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=99
@@ -79,13 +75,6 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/manifes
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=439
 #EXTINF:-1 tvg-id="ts439" tvg-logo="https://tatalogo.pages.dev/439.png" group-title="Tamil",Raj TV
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=997
-#EXTINF:-1 tvg-id="ts997" tvg-logo="https://tatalogo.pages.dev/997.png" group-title="None",Tata Play Toons+
-https://delta13tatasky.akamaized.net/out/i/5615195.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=708
@@ -255,10 +244,13 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifes
 #EXTINF:-1 tvg-id="ts334" tvg-logo="https://tatalogo.pages.dev/334.png" group-title="Tamil",DD Podhigai
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="ts24" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" group-title="Sports",Star Sports 1 Tamil HD
+http://tgaadi-web.tech/TG_AADI.php?id=9693
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=411
-#EXTINF:-1 tvg-id="ts411" tvg-logo="https://tatalogo.pages.dev/411.png" group-title="Tamil",Murasu TV
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=997
+#EXTINF:-1 tvg-id="ts997" tvg-logo="https://tatalogo.pages.dev/997.png" group-title="None",Tata Play Toons+
+https://delta13tatasky.akamaized.net/out/i/5615195.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=8
@@ -283,6 +275,10 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifes
 #EXTINF:-1 tvg-id="ts641" tvg-logo="https://tatalogo.pages.dev/641.png" group-title="Lifestyle",Tata Play Cooking
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=1167
+#EXTINF:-1 tvg-id="ts1167" tvg-logo="https://tatalogo.pages.dev/1167.png" group-title="None",Tata Play Hollywood Local Tamil
+https://delta13tatasky.akamaized.net/out/i/6282177.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=840
