@@ -18,12 +18,14 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifes
 #EXTINF:-1 tvg-id="ts1182" tvg-logo="https://tatalogo.pages.dev/1182.png" group-title="Movies",Zee Thirai HD
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="ts200" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20180318045647" group-title="Tamil",Sun Music HD
-http://tgaadi-web.tech/aadi.php?id=652
+#EXTINF:-1 tvg-id="ts474" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN158ColorsSuper.png" group-title="Tamil",Sun Music
+http://152.89.62.76:8880/1mmk010073/78733928/55295
 
+#EXTINF:-1 tvg-id="ts474" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN158ColorsSuper.png" group-title="Tamil",Sun Music
+http://watchtv.best:80/play/live.php?mac=00:1A:79:51:73:19&stream=155881&extension=ts&play_token=MdOQdOWiby
 
-#EXTINF:-1 tvg-id="ts200" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047" group-title="Tamil",Vijay Super HD
-http://tgaadi-web.tech/aadi.php?id=831
+#EXTINF:-1 tvg-id="ts474" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super 
+http://watchtv.best:80/play/live.php?mac=00:1A:79:51:73:19&stream=155875&extension=ts&play_token=XFZzZ3K92N
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=608
