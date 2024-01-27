@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/DenverKey.php?id=496
 #EXTINF:-1 tvg-id="ts496" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Tamil",Star Vijay HD
