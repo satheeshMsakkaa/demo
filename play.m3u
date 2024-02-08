@@ -4016,3 +4016,6 @@ https://cable51tataplay.akamaized.net/baiscope/baiscope/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=1043
 #EXTINF:-1 tvg-id="ts1043" tvg-logo="https://tatalogo.pages.dev/1043.png" group-title="None",Nakshatra Digital
 https://nakshatratataplay.akamaized.net/nakshatradigital/nakshatradigital/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SUNXT | Sun TV HD" tvg-logo="http://go.justflix.tv/images/india/Sun_TV_HD.png" group-title="TAMIL",SUNXT | Sun TV HD
+http://go.justflix.tv:80/2245356388/2245356388/237
