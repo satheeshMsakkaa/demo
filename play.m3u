@@ -18,6 +18,18 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=380
 #EXTINF:-1 tvg-id=ts496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=496
 
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="AS TAMIL", TAMIL: ADHTIYA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
+
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png" group-title="AS TAMIL", TAMIL: SUN LIFE
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100154
+
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
+
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="AS TAMIL", TAMIL: SUN NEWS
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100156
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=421&key
 #EXTINF:-1 tvg-id=ts421 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png" group-title="Tamil",Peppers TV
@@ -1305,8 +1317,6 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1116477&extens
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=282651&extension=ts
 
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="" group-title="AS TAMIL", TAMIL: ADHTIYA TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ANGEL TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: ANGEL TV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100103
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ATHAVAN TV" tvg-logo="" group-title="AS TAMIL", TAMIL: ATHAVAN TV
@@ -1349,7 +1359,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100122
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100123
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: JAYA TV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100124
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: KTV HD
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png" group-title="AS TAMIL", TAMIL: KTV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100125
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: LOTUS NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: LOTUS NEWS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100126
@@ -1395,12 +1405,6 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100151
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100152
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: STAR VIJAY HD" tvg-logo="" group-title="AS TAMIL", TAMIL: STAR VIJAY HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100153
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN LIFE
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100154
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN NEWS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100156
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN TV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100157
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TAMILAN TV" tvg-logo="" group-title="AS TAMIL", TAMIL: TAMILAN TV
