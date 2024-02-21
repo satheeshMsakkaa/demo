@@ -35,8 +35,8 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100156
 #EXTINF:-1 tvg-id=ts421 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png" group-title="Tamil",Peppers TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=421
 
-#EXTINF:-1 tvg-id=ts42551 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
-http://go.justflix.tv:80/6421621410/6421621410/822
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100167
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=390&key
@@ -1417,8 +1417,6 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100162
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100163
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VASANTH TV" tvg-logo="" group-title="AS TAMIL", TAMIL: VASANTH TV
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100165
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100167
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: WIN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: WIN NEWS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100168
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL HD" tvg-logo="" group-title="zee 5", TAMIL: ZEE TAMIL HD
