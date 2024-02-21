@@ -30,10 +30,8 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
 #EXTINF:-1 tvg-id=ts42551 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
 http://go.justflix.tv:80/6421621410/6421621410/822
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=978&key
-#EXTINF:-1 tvg-id=ts978 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69926-l1ooghuw-v3/imageContent-69926-l1ooghuw-m3.png" group-title="Odia",Sidharth TV
-http://rftv.wtf/tp/rjiptv.mpd?contentID=978
+#EXTINF:-1 tvg-id="676" tvg-name="Sun News" tvg-type="News" group-title="YASHRAJ MOD News" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png",Sun News
+https://ep-webpage-iron-in.trycloudflare.com/app/live.php?id=676&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=390&key
