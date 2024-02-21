@@ -24,7 +24,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png" group-title="AS TAMIL", TAMIL: SUN LIFE
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100154
 
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="http://ujm.from-in.com/panel/imageicon/176ce76.png" group-title="AS TAMIL", SUN MUSIC HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
 
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="AS TAMIL", TAMIL: SUN NEWS
@@ -34,10 +34,6 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100156
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=421&key
 #EXTINF:-1 tvg-id=ts421 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png" group-title="Tamil",Peppers TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=421
-
-#EXTINF:-1 tvg-id=ts42561 tvg-logo="http://ujm.from-in.com/panel/imageicon/176ce76.png" group-title="Tamil",Sun Music hd
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
-
 
 #EXTINF:-1 tvg-id=ts42551 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
 http://go.justflix.tv:80/6421621410/6421621410/822
