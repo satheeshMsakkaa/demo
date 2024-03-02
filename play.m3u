@@ -1,7 +1,10 @@
 #EXTM3U × all in one
 
-#EXTINF:-1 tvg-id=ts521 tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100157
+#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+https://ardinesh-pc-remote.puspas.com.np/dittotvv/777/index.m3u8
+
+#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+http://iptvtree.net:8080/aarush6277/0b432318/76969
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=521
