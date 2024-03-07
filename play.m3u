@@ -6,20 +6,17 @@ https://ardinesh-pc-remote.puspas.com.np/dittotvv/777/index.m3u8
 #EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
 http://iptvtree.net:8080/aarush6277/0b432318/76969
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=521
-#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+#EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100157
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=380
-#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Tamil",KTV HD
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd
+#EXTINF:-1 tvg-id="ts380" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100125
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=496
-#EXTINF:-1 tvg-id="496" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Tamil",Star Vijay HD
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd
+#EXTINF:-1 tvg-id="ts496" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
+http://sansat.net:88/02048081503032/02048081503032/100153
+
+#EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD backup
+http://sansat.net:88/02048081503032/02048081503032/100157
 
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="AS TAMIL", ADHTIYA TV
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
@@ -47,7 +44,7 @@ https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manife
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=474
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XLl0gNJxNTgXPFb8HPtcyg","kid":"UwgwvYnUUSqtZsjs1S4LwA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="474" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Tamil",Sun Life
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
 
@@ -481,113 +478,127 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manife
 #EXTINF:-1 tvg-id="812" tvg-logo="https://tatalogo.pages.dev/812.png" group-title="Sports",Eurosport HD
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
 
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="" group-title="AS TAMIL", TAMIL: ADHTIYA TV
+http://sansat.net:88/02048081503032/02048081503032/100100
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ANGEL TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: ANGEL TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100103
+http://sansat.net:88/02048081503032/02048081503032/100103
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ATHAVAN TV" tvg-logo="" group-title="AS TAMIL", TAMIL: ATHAVAN TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100104
+http://sansat.net:88/02048081503032/02048081503032/100104
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CAPTAIN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: CAPTAIN NEWS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100105
+http://sansat.net:88/02048081503032/02048081503032/100105
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CAPTAIN TV" tvg-logo="" group-title="AS TAMIL", TAMIL: CAPTAIN TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100106
+http://sansat.net:88/02048081503032/02048081503032/100106
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CHUTTI TV" tvg-logo="" group-title="AS TAMIL", TAMIL: CHUTTI TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100108
+http://sansat.net:88/02048081503032/02048081503032/100108
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: COLORS TAMIL HD" tvg-logo="" group-title="AS TAMIL", TAMIL: COLORS TAMIL HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100109
+http://sansat.net:88/02048081503032/02048081503032/100109
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DD PODHIGAI" tvg-logo="" group-title="AS TAMIL", TAMIL: DD PODHIGAI
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100110
+http://sansat.net:88/02048081503032/02048081503032/100110
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DD SAPTAGIRI" tvg-logo="" group-title="AS TAMIL", TAMIL: DD SAPTAGIRI
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100111
+http://sansat.net:88/02048081503032/02048081503032/100111
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY KIDS TAMIL" tvg-logo="" group-title="AS TAMIL", TAMIL: DISCOVERY KIDS TAMIL
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100112
+http://sansat.net:88/02048081503032/02048081503032/100112
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY WORLD HD" tvg-logo="" group-title="AS TAMIL", TAMIL: DISCOVERY WORLD HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100113
+http://sansat.net:88/02048081503032/02048081503032/100113
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FLOWERS TV" tvg-logo="" group-title="AS TAMIL", TAMIL: FLOWERS TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100114
+http://sansat.net:88/02048081503032/02048081503032/100114
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FOX LIFE HD" tvg-logo="" group-title="AS TAMIL", TAMIL: FOX LIFE HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100115
+http://sansat.net:88/02048081503032/02048081503032/100115
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: HISTORY TV18 HD" tvg-logo="" group-title="AS TAMIL", TAMIL: HISTORY TV18 HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100116
+http://sansat.net:88/02048081503032/02048081503032/100116
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC BAKTHI" tvg-logo="" group-title="AS TAMIL", TAMIL: IBC BAKTHI
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100117
+http://sansat.net:88/02048081503032/02048081503032/100117
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC COMEDY" tvg-logo="" group-title="AS TAMIL", TAMIL: IBC COMEDY
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100118
+http://sansat.net:88/02048081503032/02048081503032/100118
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC TAMIL" tvg-logo="" group-title="AS TAMIL", TAMIL: IBC TAMIL
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100119
+http://sansat.net:88/02048081503032/02048081503032/100119
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IMAYAM TV" tvg-logo="" group-title="AS TAMIL", TAMIL: IMAYAM TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100120
+http://sansat.net:88/02048081503032/02048081503032/100120
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: J MOVIES" tvg-logo="" group-title="AS TAMIL", TAMIL: J MOVIES
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100121
+http://sansat.net:88/02048081503032/02048081503032/100121
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA MAX" tvg-logo="" group-title="AS TAMIL", TAMIL: JAYA MAX
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100122
+http://sansat.net:88/02048081503032/02048081503032/100122
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA PLUS" tvg-logo="" group-title="AS TAMIL", TAMIL: JAYA PLUS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100123
+http://sansat.net:88/02048081503032/02048081503032/100123
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: JAYA TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100124
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png" group-title="AS TAMIL", TAMIL: KTV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100125
+http://sansat.net:88/02048081503032/02048081503032/100124
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: KTV HD
+http://sansat.net:88/02048081503032/02048081503032/100125
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: LOTUS NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: LOTUS NEWS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100126
+http://sansat.net:88/02048081503032/02048081503032/100126
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MADHA TV" tvg-logo="" group-title="AS TAMIL", TAMIL: MADHA TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100127
+http://sansat.net:88/02048081503032/02048081503032/100127
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MAKKAL TV" tvg-logo="" group-title="AS TAMIL", TAMIL: MAKKAL TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100129
+http://sansat.net:88/02048081503032/02048081503032/100129
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MK TV" tvg-logo="" group-title="AS TAMIL", TAMIL: MK TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100132
+http://sansat.net:88/02048081503032/02048081503032/100132
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MOON TV" tvg-logo="" group-title="AS TAMIL", TAMIL: MOON TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100133
+http://sansat.net:88/02048081503032/02048081503032/100133
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NAT GEO WILD HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEOGRAPHIC_WILD_HD.png" group-title="AS TAMIL", TAMIL: NAT GEO WILD HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100135
+http://sansat.net:88/02048081503032/02048081503032/100135
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: NATIONAL GEOGRAPHIC HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100136
+http://sansat.net:88/02048081503032/02048081503032/100136
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NEWS 18 TAMIL NADU" tvg-logo="" group-title="AS TAMIL", TAMIL: NEWS 18 TAMIL NADU
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100137
+http://sansat.net:88/02048081503032/02048081503032/100137
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: POLIMER NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: POLIMER NEWS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100139
+http://sansat.net:88/02048081503032/02048081503032/100139
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: POLIMER TV" tvg-logo="" group-title="AS TAMIL", TAMIL: POLIMER TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100140
+http://sansat.net:88/02048081503032/02048081503032/100140
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: PUTHIYA THALIMURAI" tvg-logo="" group-title="AS TAMIL", TAMIL: PUTHIYA THALIMURAI
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100141
+http://sansat.net:88/02048081503032/02048081503032/100141
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: PUTHUYUGAM" tvg-logo="" group-title="AS TAMIL", TAMIL: PUTHUYUGAM
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100142
+http://sansat.net:88/02048081503032/02048081503032/100142
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAGAM TV" tvg-logo="" group-title="AS TAMIL", TAMIL: RAGAM TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100143
+http://sansat.net:88/02048081503032/02048081503032/100143
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ DIGITAL PLUS" tvg-logo="" group-title="AS TAMIL", TAMIL: RAJ DIGITAL PLUS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100144
+http://sansat.net:88/02048081503032/02048081503032/100144
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ MUSIX" tvg-logo="" group-title="AS TAMIL", TAMIL: RAJ MUSIX
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100145
+http://sansat.net:88/02048081503032/02048081503032/100145
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: RAJ NEWS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100146
+http://sansat.net:88/02048081503032/02048081503032/100146
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ TV" tvg-logo="" group-title="AS TAMIL", TAMIL: RAJ TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100147
+http://sansat.net:88/02048081503032/02048081503032/100147
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SAHANA TV" tvg-logo="" group-title="AS TAMIL", TAMIL: SAHANA TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100148
+http://sansat.net:88/02048081503032/02048081503032/100148
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SATHIYAM TV" tvg-logo="" group-title="AS TAMIL", TAMIL: SATHIYAM TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100150
+http://sansat.net:88/02048081503032/02048081503032/100150
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY BBC EARTH HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SONY BBC EARTH HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100151
+http://sansat.net:88/02048081503032/02048081503032/100151
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY YAY" tvg-logo="" group-title="AS TAMIL", TAMIL: SONY YAY
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100152
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: STAR VIJAY HD" tvg-logo="" group-title="AS TAMIL", TAMIL: STAR VIJAY HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100153
+http://sansat.net:88/02048081503032/02048081503032/100152
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3rhfm3JraEByUctj+/7erw","kid":"MQB0P15FUOqMXmgT0JBdsQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts496" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN LIFE
+http://sansat.net:88/02048081503032/02048081503032/100154
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
+http://sansat.net:88/02048081503032/02048081503032/100155
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN NEWS
+http://sansat.net:88/02048081503032/02048081503032/100156
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100157
+http://sansat.net:88/02048081503032/02048081503032/100157
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TAMILAN TV" tvg-logo="" group-title="AS TAMIL", TAMIL: TAMILAN TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100158
+http://sansat.net:88/02048081503032/02048081503032/100158
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TATA SKY TAMIL CINEMA" tvg-logo="" group-title="AS TAMIL", TAMIL: TATA SKY TAMIL CINEMA
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100159
+http://sansat.net:88/02048081503032/02048081503032/100159
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: THANTHI TV" tvg-logo="" group-title="AS TAMIL", TAMIL: THANTHI TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100160
+http://sansat.net:88/02048081503032/02048081503032/100160
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TUNE 6" tvg-logo="" group-title="AS TAMIL", TAMIL: TUNE 6
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100161
+http://sansat.net:88/02048081503032/02048081503032/100161
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TVI HD" tvg-logo="" group-title="AS TAMIL", TAMIL: TVI HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100162
+http://sansat.net:88/02048081503032/02048081503032/100162
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VALICHAM PLUS" tvg-logo="" group-title="AS TAMIL", TAMIL: VALICHAM PLUS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100163
+http://sansat.net:88/02048081503032/02048081503032/100163
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VASANTH TV" tvg-logo="" group-title="AS TAMIL", TAMIL: VASANTH TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100165
+http://sansat.net:88/02048081503032/02048081503032/100165
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
+http://sansat.net:88/02048081503032/02048081503032/100167
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: WIN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: WIN NEWS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100168
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL HD" tvg-logo="" group-title="zee 5", TAMIL: ZEE TAMIL HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100169
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE THIRAI" tvg-logo="" group-title="zee 5", TAMIL: ZEE THIRAI
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100171
+http://sansat.net:88/02048081503032/02048081503032/100168
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL HD" tvg-logo="" group-title="AS TAMIL", TAMIL: ZEE TAMIL HD
+http://sansat.net:88/02048081503032/02048081503032/100169
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL SD" tvg-logo="" group-title="AS TAMIL", TAMIL: ZEE TAMIL SD
+http://sansat.net:88/02048081503032/02048081503032/100170
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE THIRAI" tvg-logo="" group-title="AS TAMIL", TAMIL: ZEE THIRAI
+http://sansat.net:88/02048081503032/02048081503032/100171
