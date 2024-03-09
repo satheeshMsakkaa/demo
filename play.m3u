@@ -1,4 +1,4 @@
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=521&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Regional Tamil",Sun TV HD
 https://rftv.wtf/tp/tplay.mpd?contentID=521
@@ -31,9 +31,6 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifes
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="AS TAMIL", ADHTIYA TV
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
 
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png" group-title="AS TAMIL", SUN LIFE
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100154
-
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="http://ujm.from-in.com/panel/imageicon/176ce76.png" group-title="AS TAMIL", SUN MUSIC HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
 
@@ -52,12 +49,6 @@ https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manife
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=1260
 #EXTINF:-1 tvg-id="1260" tvg-logo="https://tatalogo.pages.dev/1260.png" group-title="Movies",Tata Play Tamil Classics
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XLl0gNJxNTgXPFb8HPtcyg","kid":"UwgwvYnUUSqtZsjs1S4LwA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="474" tvg-logo="https://tatalogo.pages.dev/474.png" group-title="Tamil",Sun Life
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=674
