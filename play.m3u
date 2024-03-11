@@ -13,21 +13,17 @@ https://rftv.wtf/tp/tplay.mpd?contentID=521
 #EXTINF:-1 tvg-id=ts380 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV HD
 https://rftv.wtf/tp/tplay.mpd?contentID=380
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tR6BhLgv/250x375-Sun-Music-HD-9013-a1f6d6ac-015b-4e0f-b756-bc331824e590-modified.png" group-title="Regional Tamil",Sun Music HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9CqvBX/unnamed-modified.png" group-title="Regional Tamil",Adithya TV
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest?cb=20180318045832" group-title="AS TAMIL", ADHTIYA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100100
 
-#EXTINF:-1 tvg-id=ts42551 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
-http://go.justflix.tv:80/6421621410/6421621410/822
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="http://ujm.from-in.com/panel/imageicon/176ce76.png" group-title="AS TAMIL", SUN MUSIC HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100155
 
-#EXTINF:-1 tvg-id="1182" tvg-logo="https://tatalogo.pages.dev/1182.png" group-title="ALL IN ONE OTT | ZEE 5",Zee Thirai HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100171
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="AS TAMIL", TAMIL: SUN NEWS
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100156
+
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100167
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=400&key
