@@ -1791,6 +1791,33 @@ https://rftv.wtf/tp/tplay.mpd?contentID=599
 #EXTINF:-1 tvg-id=ts210 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="Movies",MN+ HD
 https://rftv.wtf/tp/tplay.mpd?contentID=210
 
+#EXTINF:-1 tvg-id="ts632" group-title="Movies" tvg-name="Star Movies HD" tvg-logo="https://i.postimg.cc/WpxKWWB0/image.jpg",Star Movies HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+#EXTINF:-1  tvg-id="Star.Sports.1.Tamil.in" group-logo="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-1-tamil-logo-300x300.jpg" group-title="ALL IN ONE 🏏 | Sports",Star Sports Tamil
+https://bq32.short.gy/join@vaathala1?mac=00:1a:79:c7:74:97&stream=155873&extension=.ts
+
+EXTINF:-1  tvg-id="Star.Sports.1.Tamil.in" group-logo="" tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-400,resizemode-4/80981860.jpg" group-title="ALL IN ONE 🏏 | Sports",Willow Cricket
+https://vicky1111000.github.io/stream/v1a1/mono2.m3u8?&play_token=join@vaathala1
+
+#EXTINF:-1  tvg-id="Star.Sports.1.Tamil.in" group-logo="" tvg-logo="https://www.sportsry.com/wp-content/uploads/2022/03/How-Where-to-Watch-Indian-Premier-League-2022-Live-Telecast-on-Sky-Sports-Cricket.jpg" group-title="ALL IN ONE 🏏 | Sports",Sky Sports Cricket 
+https://vicky1111000.github.io/stream/v1a1/mono1.m3u8?&play_token=join@vaathala1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
+#EXTINF:-1 group-title="ALL IN ONE 🏏 | Sports" tvg-chno="" tvg-id="" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png",Sky Sports Mix HD
+https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 group-title="ALL IN ONE 🏏 | Sports" tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
+#EXTINF:-1 group-title="ALL IN ONE 🏏 | Sports" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-zt4VBIOrE4dWL932Qp3oer2NepKmBIdRA&usqp=CAU",Willow Cricket HD
+https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=562&key
 #EXTINF:-1 tvg-id=ts562 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="Movies",Movies Now HD
