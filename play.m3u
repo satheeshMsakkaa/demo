@@ -139,6 +139,20 @@ https://rftv.wtf/tp/tplay.mpd?contentID=272
 https://rftv.wtf/tp/tplay.mpd?contentID=611
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tR6BhLgv/250x375-Sun-Music-HD-9013-a1f6d6ac-015b-4e0f-b756-bc331824e590-modified.png" group-title="Tataplay Tamil",Sun Music HD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+https://bq32.short.gy/sso?id=7896
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tataplay Tamil",Vijay Music HD
+http://testing.denver1769.in/Ply/ulpl.php?id=5402
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9CqvBX/unnamed-modified.png" group-title="Tataplay Tamil",Adithya TV
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=499&key
 #EXTINF:-1 tvg-id=ts499 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png" group-title="Tamil",Vasanth TV
 https://rftv.wtf/tp/tplay.mpd?contentID=499
