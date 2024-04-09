@@ -1,4 +1,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 group-title="ALL IN ONE 🏏 | Sports" tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=496&key
 #EXTINF:-1 tvg-id=ts496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
 https://rftv.wtf/tp/tplay.mpd?contentID=496
