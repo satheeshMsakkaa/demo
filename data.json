@@ -1,0 +1,60 @@
+[
+  {
+    "name": "IPL 2024 - English 4K - AdFree",
+    "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
+    "desc": "Watch Live Streaming in English (Ad Free)",
+    "group": "sports",
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1120424/master.m3u8"
+  },
+  {
+    "name": "IPL 2024 - Tamil 4K",
+    "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
+    "group": "sports",
+    "desc": "Watch Live Streaming in Tamil", 
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1120424/master.m3u8"
+  },
+  {
+    "name": "IPL 2024 - English 4K",
+    "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
+    "group": "sports",
+    "desc": "Watch Live Streaming in English",
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1120424/master.m3u8"
+  },
+  {
+    "name": "Astro Cricket",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",
+    "group": "sports",
+    "desc": "Watch Free Streaming",
+    "url": "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd",
+    "license_key": "03c2e0af2f8159f9f0ce9b5dbc865f10",
+    "license_key2": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
+  },
+  {
+    "name": "Star Sports - Tamil",
+    "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
+    "group": "sports",
+    "desc": "Watch Live Streaming",
+    "url": "https://digitaldvd.pages.dev/nth/Vth/starsportstamil.m3u8"
+  },
+  {
+    "name": "SUN TV HD",
+    "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",
+    "desc": "Watch Live Streaming",
+    "group": "enter",
+    "url": "http://sansat.net:25461/02024659763157/9012405740/100125"
+  },
+  {
+    "name": "STAR VIJAY HD",
+    "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",
+    "desc": "Watch Live Streaming",
+    "group": "enter",
+    "url": "http://tgaadi-web.tech/api/dhoom.php?tv=11431"
+  },
+  {
+    "name": "SUN LIFE",
+    "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",
+    "desc": "Watch Live Streaming",
+    "group": "enter",
+    "url": "http://sansat.net:25461/02024659763157/9012405740/100154"
+  }
+]

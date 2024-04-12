@@ -1,12 +1,97 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>What is HTML5</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>:: SAKKAAONLINE ::</title>
+    <link href="https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: aliceblue;
+    }
+    .container-fluid {
+        background-color: aliceblue;
+    }
+    .head-txt {
+        text-align: center;
+        color:blue;
+    }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+<div class="container-fluid bg-white">
+    <h2 class="head-txt fs-1">Welcome to Sakkaonline</h2>
+    <div class="accordion" id="accordionPanelsStayOpenExample">
+        <div class="accordion-item mt-3 mb-2">
+          <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne" fdprocessedid="hi36kk">
+              SPORTS
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+                <div class="row" id="sports"></div>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="true" aria-controls="panelsStayOpen-collapseTwo" fdprocessedid="hi36kk">
+                LIVE TV Channels (Testing)
+              </button>
+            </h2>
+            <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse show">
+              <div class="accordion-body">
+                  <div class="row" id="entertain"></div>
+              </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+<script type='text/javascript'>
+    function fetchChannels(callback) {
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => callback(data))
+            .catch(error => console.error('Error fetching JSON:', error));
+    }
+    fetchChannels(function(channels) {
+        const sportsContent = channels.filter(f => f.group === 'sports').map(channel => {
+           return `<div class="col-3"><div class="card">
+                <img src="${channel.logo}" height="300">
+                <div class="card-body">
+                    <h5 class="card-title">${channel.name}</h5>
+                    <p class="card-text">${channel.desc}</p>
+                    <a href="player.html?ch=${channel.name}" class="btn btn-primary btn-lg">PLAY</a>
+                </div>
+            </div></div>`;
+        });
+        const entertainContent = channels.filter(f => f.group === 'enter').map(channel => {
+           return `<div class="col-3"><div class="card">
+                <img src="${channel.logo}" height="300">
+                <div class="card-body">
+                    <h5 class="card-title">${channel.name}</h5>
+                    <p class="card-text">${channel.desc}</p>
+                    <a href="player.html?ch=${channel.name}" class="btn btn-primary btn-lg">PLAY</a>
+                </div>
+            </div></div>`;
+        });
+        i = -1;
+        while (i < sportsContent.length-1){
+            i++
+            document.getElementById("sports").innerHTML += sportsContent[i]
+        }
+        j = -1
+        while (j < entertainContent.length-1){
+            j++
+            document.getElementById("entertain").innerHTML += entertainContent[j]
+        }
+    });
+</script>
 </body>
 </html>
