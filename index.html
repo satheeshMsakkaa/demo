@@ -96,10 +96,20 @@
                 </div>
             </div></div>`;
         });
+        const astro = `<div class="col-12 col-sm-3"><div class="card mb-2">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" height="300">
+                <p class="liveTag">Live</p>
+                <div class="card-body">
+                    <h5 class="card-title">Astro Cricket</h5>
+                    <p class="card-text">Watch Free Streaming</p>
+                    <a href="astro.html" class="btn btn-primary btn-lg">PLAY NOW</a>
+                </div>
+            </div></div>`;
         i = -1;
         while (i < sportsContent.length-1){
             i++
-            document.getElementById("sports").innerHTML += sportsContent[i]
+            document.getElementById("sports").innerHTML += sportsContent[i];
+            document.getElementById("sports").innerHTML += astro;
         }
         j = -1
         while (j < entertainContent.length-1){
