@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>:: SAKKAAONLINE ::</title>
     <link href="https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="app.css" rel="stylesheet">
 <style>
     body {
         margin: 0;
@@ -19,19 +21,21 @@
         text-align: center;
         color:blue;
     }
-   .mb-2 {
-       margin-bottom: 20px;
-   }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
+<section id="hero">
+    <div class="hero-container">
+        <h1>Welcome to Satheeshonline portal</h1>
+        <h2>Best portal to watch live streaming</h2>
+    </div>
+</section>
 <div class="container-fluid bg-white">
-    <h2 class="head-txt fs-1">Welcome to Sakkaonline</h2>
     <div class="accordion" id="accordionPanelsStayOpenExample">
         <div class="accordion-item mt-3 mb-2">
           <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne" fdprocessedid="hi36kk">
+            <button class="accordion-button font-weight-bold" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne" fdprocessedid="hi36kk">
               SPORTS
             </button>
           </h2>
@@ -43,7 +47,7 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="true" aria-controls="panelsStayOpen-collapseTwo" fdprocessedid="hi36kk">
+              <button class="accordion-button font-weight-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="true" aria-controls="panelsStayOpen-collapseTwo" fdprocessedid="hi36kk">
                 LIVE TV Channels (Testing)
               </button>
             </h2>
@@ -53,9 +57,15 @@
               </div>
             </div>
         </div>
-    </div>
-    
+    </div>    
 </div>
+<footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        © Copyright <strong><span>Sakkaaonline</span></strong>. All Rights Reserved.
+      </div>
+    </div>
+  </footer>
 <script type='text/javascript'>
     function fetchChannels(callback) {
         fetch('data.json')
@@ -67,20 +77,22 @@
         const sportsContent = channels.filter(f => f.group === 'sports').map(channel => {
            return `<div class="col-12 col-sm-3"><div class="card mb-2">
                 <img src="${channel.logo}" height="300">
+                <p class="liveTag">Live</p>
                 <div class="card-body">
                     <h5 class="card-title">${channel.name}</h5>
                     <p class="card-text">${channel.desc}</p>
-                    <a href="player.html?ch=${channel.name}" class="btn btn-primary btn-lg">PLAY</a>
+                    <a href="player.html?ch=${channel.name}" class="btn btn-primary btn-lg">PLAY NOW</a>
                 </div>
             </div></div>`;
         });
         const entertainContent = channels.filter(f => f.group === 'enter').map(channel => {
            return `<div class="col-12 col-sm-3"><div class="card mb-2">
                 <img src="${channel.logo}" height="300">
+                <p class="liveTag">Live</p>
                 <div class="card-body">
                     <h5 class="card-title">${channel.name}</h5>
                     <p class="card-text">${channel.desc}</p>
-                    <a href="player.html?ch=${channel.name}" class="btn btn-primary btn-lg">PLAY</a>
+                    <a href="player.html?ch=${channel.name}" class="btn btn-primary btn-lg">PLAY NOW</a>
                 </div>
             </div></div>`;
         });
