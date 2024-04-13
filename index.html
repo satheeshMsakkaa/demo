@@ -62,7 +62,7 @@
     }
     fetchChannels(function(channels) {
         const sportsContent = channels.filter(f => f.group === 'sports').map(channel => {
-           return `<div class="col-3"><div class="card">
+           return `<div class="col-12 col-sm-3"><div class="card">
                 <img src="${channel.logo}" height="300">
                 <div class="card-body">
                     <h5 class="card-title">${channel.name}</h5>
@@ -72,7 +72,7 @@
             </div></div>`;
         });
         const entertainContent = channels.filter(f => f.group === 'enter').map(channel => {
-           return `<div class="col-3"><div class="card">
+           return `<div class="col-12 col-sm-3"><div class="card">
                 <img src="${channel.logo}" height="300">
                 <div class="card-body">
                     <h5 class="card-title">${channel.name}</h5>
