@@ -39,25 +39,25 @@ function setupPlayer(channelData) {
                 }
             };
         }
+        jwplayer("jwplayerDiv").setup(playerSetup);
     } else if (channelData.url.endsWith('.m3u8')) {
-        // Set up DRM for HLS with keys if available
-        playerSetup.type = 'hls';
-
-        // Check if Clear Key is available
-        if (channelData.license_key && channelData.license_key2) {
-            playerSetup.drm = {
-                clearkey: {
-                    keyId: channelData.license_key,
-                    key: channelData.license_key2
-                }
-            };
-        }
+        // Initialize JW Player
+        var player = jwplayer("jwplayerDiv");
+        // Setup JW Player configuration
+        player.setup({
+            file: channelData.url,
+            width: "100%",
+            stretching: "",
+            type: "hls",
+            autostart: "true",
+            mute: "false",
+            primary: "html5"
+        });
     } else {
         // Default to HLS without keys
         playerSetup.type = 'hls';
+        jwplayer("jwplayerDiv").setup(playerSetup);
     }
-
-    jwplayer("jwplayerDiv").setup(playerSetup);
 }
 
 // Fetch channels data and set up the player
