@@ -4,20 +4,20 @@
     "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
     "desc": "Watch Live Streaming in English (Ad Free)",
     "group": "sports",
-    "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/7f5975e0eb1141d08c58bbb80299c175/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1150424/master.m3u8"
   },
   {
     "name": "IPL 2024 - Tamil 4K",
     "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
     "group": "sports",
     "desc": "Watch Live Streaming in Tamil", 
-    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109681/uhd_akamai_atv_avc_tam_ipl_s2_m2140424/master.m3u8"
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1150424/master.m3u8"
   },
   {
     "name": "IPL 2024 - English 4K",
     "logo": "https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg",
     "group": "sports",
     "desc": "Watch Live Streaming in English",
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/uhd_akamai_atv_avc_eng_ipl_s2_m2140424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1150424/master.m3u8"
   }
 ]
