@@ -28,12 +28,19 @@
     "url": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8"
   },
   {
+    "name": "Sooriyan TV",
+    "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+    "group": "enter",
+    "desc": "Watch Sooriyan TV Live Streaming", 
+    "url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8"
+  },
+  {
     "name": "7S Music",
     "logo": "https://i.imgur.com/zDiIhdN.png",
     "group": "enter",
     "desc": "Watch 7S Music Live Streaming", 
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8"
-  }.
+  },
   {
     "name": "ImaiTV",
     "logo": "https://i.imgur.com/9tODclu.png",
@@ -47,5 +54,40 @@
     "group": "enter",
     "desc": "Watch Isai Aruvi Live Streaming", 
     "url": "http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8"
+  },
+  {
+    "name": "Sirippoli TV",
+    "logo": "https://i.imgur.com/nsplwFc.png",
+    "group": "enter",
+    "desc": "Watch Sirippoli TV Live Streaming", 
+    "url": "http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8"
+  },
+  {
+    "name": "Kalaignar Murasu",
+    "logo": "https://i.imgur.com/ZDXVWVQ.png",
+    "group": "enter",
+    "desc": "Watch Kalaignar Murasu TV Live Streaming", 
+    "url": "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
+  },
+  {
+    "name": "MNTV Music",
+    "logo": "https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg",
+    "group": "enter",
+    "desc": "Watch MNTV Music Live Streaming", 
+    "url": "https://mntv.livebox.co.in/musichls/live.m3u8"
+  },
+  {
+    "name": "MNTV",
+    "logo": "https://i.imgur.com/cFNw4Af.png",
+    "group": "enter",
+    "desc": "Watch MNTV Live Streaming", 
+    "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
+  },
+  {
+    "name": "MNTV",
+    "logo": "https://i.imgur.com/cFNw4Af.png",
+    "group": "enter",
+    "desc": "Watch MNTV Live Streaming", 
+    "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
   }
 ]
