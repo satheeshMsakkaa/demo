@@ -56,8 +56,14 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=417&e=.m3u8
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-type="Music" group-title="JioTV+ Music" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",Jaya Max
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=420&e=.m3u8
 
+#EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-type="Music" group-title="JioTV+ Music" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
+https://qrpay.fun/TS-JioTV-main/app/live.php?id=748&e=.m3u8
+
 #EXTINF:-1 tvg-id="845" tvg-name="MK Music" tvg-type="Music" group-title="JioTV+ Music" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png",MK Music
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=845&e=.m3u8
+
+#EXTINF:-1 tvg-id="803" tvg-name="Tunes 6" tvg-type="Music" group-title="JioTV+ Music" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
+https://qrpay.fun/TS-JioTV-main/app/live.php?id=803&e=.m3u8
 
 #EXTINF:-1 tvg-id="726" tvg-name="DD5 Podhigai" tvg-type="Entertainment" group-title="JioTV+ Entertainment" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD5 Podhigai
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=726&e=.m3u8
@@ -85,9 +91,6 @@ https://qrpay.fun/TS-JioTV-main/app/live.php?id=727&e=.m3u8
 
 #EXTINF:-1 tvg-id="971" tvg-name="Vaanavil TV" tvg-type="Entertainment" group-title="JioTV+ Entertainment" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png",Vaanavil TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=971&e=.m3u8
-
-#EXTINF:-1 tvg-id="803" tvg-name="Tunes 6" tvg-type="Music" group-title="JioTV+ Music" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
-https://qrpay.fun/TS-JioTV-main/app/live.php?id=803&e=.m3u8
 
 #EXTINF:-1 tvg-id="796" tvg-name="Peppers TV" tvg-type="Entertainment" group-title="JioTV+ Entertainment" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png",Peppers TV
 https://qrpay.fun/TS-JioTV-main/app/live.php?id=796&e=.m3u8
