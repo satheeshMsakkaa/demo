@@ -1,7 +1,6 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTINF:-1 group-title="ALL IN ONE 🏏 | Sports" tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo=""6899 group-title="Sports",Astro cricket HD 
+http://allinonereborn.tech/allinone.php?id=51939
 
 #EXTINF:-1 tvg-ID="" tvg-name="STAR VIJAY HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="AS TAMIL",STAR VIJAY HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100153
