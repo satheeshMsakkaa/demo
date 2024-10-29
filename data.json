@@ -21,6 +21,15 @@
     "url": "https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8"
   },
   {
+    "name": "SunTV",
+    "logo": "https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",
+    "group": "enter",
+    "desc": "Watch SunTV Live Streaming", 
+    "url": "https://livestream.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd",
+    "license_key": "3891557f1cb14dedb7545bf52499d748",
+    "license_key2": "fb662f742e5f5e0c61a7c1c66d2b019a"
+  },
+  {
     "name": "3TamilTV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1RtX4CA0yzEs2W0jYyMcbHK5V0TXztv9tcEBMDpGig&s",
     "group": "enter",
