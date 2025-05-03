@@ -19,9 +19,9 @@
   },
   {
     "name": "Thala TV",
-    "logo": "https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",
+    "logo": "live.jpg",
     "group": "enter",
-    "desc": "Watch SunTV Live Streaming", 
+    "desc": "Watch Thala Live Streaming", 
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?ads.channel=6601&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1746291105~exp=1746312705~acl=!*/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/*!/payload/yupptvott_5_-1_3a6cf93fe4164bbe_IN_27.4.232.75_yuppfast_2_channel_70_-1/*~data=yupptvott_5_-1_3a6cf93fe4164bbe_IN_27.4.232.75_yuppfast_2_channel_70_-1~hmac=083563b2df54ae05b7ecaf1487b5c7fd14e8548a13b8915fa46ee51b005b63be&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=ThalaaTV&ads.language=TAM&ads.user=0"
   },
   {
@@ -68,7 +68,7 @@
   },
   {
     "name": "Aadhavan TV",
-    "logo": "https://i.imgur.com/RqeF8RR.png",
+    "logo": "live.jpg",
     "group": "enter",
     "desc": "Watch Aadhavan TV Live Streaming", 
     "url": "https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?ads.channel=4671&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1746291319~exp=1746312919~acl=!*/120723/smil:athavantv1.smil/*!/payload/yupptvott_5_-1_3a6cf93fe4164bbe_IN_27.4.232.75_yuppfast_2_channel_205_-1/*~data=yupptvott_5_-1_3a6cf93fe4164bbe_IN_27.4.232.75_yuppfast_2_channel_205_-1~hmac=f122126dd9b38d558b7838b58629a2904a80510885108d26c82f1154ecab5216&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=AthavanTVHD&ads.language=TAM&ads.user=0"
