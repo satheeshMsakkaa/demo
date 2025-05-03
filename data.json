@@ -170,5 +170,12 @@
     "group": "enter",
     "desc": "Watch DD Tamil Live Streaming", 
     "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8"
+  },
+  {
+    "name": "Puthiya Thalaimurai",
+    "logo": "live.jpg",
+    "group": "enter",
+    "desc": "Watch Puthiya Thalaimurai Live Streaming", 
+    "url": "https://segmentsecind.akamaized.net/out/v1/0a484eea53584257876efe714e3cc9db/playlist.m3u8?ads.channel=1247&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1746290624~exp=1746312224~acl=!*/out/v1/0a484eea53584257876efe714e3cc9db/*!/payload/yupptvott_5_-1_3a6cf93fe4164bbe_IN_27.4.232.75_yuppfast_2_channel_175_-1/*~data=yupptvott_5_-1_3a6cf93fe4164bbe_IN_27.4.232.75_yuppfast_2_channel_175_-1~hmac=6c1b039cc05dff6f6abfa83f53b8f4401af052b54fc8f6dc74c4bad7e18b04d2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=PuthiyaThalaimurai&ads.language=TAM&ads.user=0"
   }
 ]
