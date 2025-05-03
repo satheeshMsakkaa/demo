@@ -81,8 +81,29 @@
     "url": "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
   },
   {
+    "name": "Isai Aruvi",
+    "logo": "live.jpg",
+    "group": "enter",
+    "desc": "Watch IsaiAruvi Live Streaming", 
+    "url": "http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8"
+  },
+  {
+    "name": "Kalaignar TV",
+    "logo": "live.jpg",
+    "group": "enter",
+    "desc": "Watch Kalaignar TV Live Streaming", 
+    "url": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8"
+  },
+  {
+    "name": "Siripoli TV",
+    "logo": "live.jpg",
+    "group": "enter",
+    "desc": "Watch Siripoli TV Live Streaming", 
+    "url": "http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8"
+  },
+  {
     "name": "MNTV Music",
-    "logo": "https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg",
+    "logo": "live.jpg",
     "group": "enter",
     "desc": "Watch MNTV Music Live Streaming", 
     "url": "https://mntv.livebox.co.in/musichls/live.m3u8"
@@ -93,5 +114,61 @@
     "group": "enter",
     "desc": "Watch MNTV Live Streaming", 
     "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
+  },
+  {
+    "name": "MK Six TV",
+    "logo": "https://i.imgur.com/wZjEssv.png",
+    "group": "enter",
+    "desc": "Watch MK Six TV Live Streaming", 
+    "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8"
+  },
+  {
+    "name": "MK Tune TV",
+    "logo": "https://i.imgur.com/6SUnfuM.png",
+    "group": "enter",
+    "desc": "Watch MK Tune TV Live Streaming", 
+    "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8"
+  },
+  {
+    "name": "MK TV",
+    "logo": "https://i.imgur.com/RyYmyWy.png",
+    "group": "enter",
+    "desc": "Watch MK TV Live Streaming", 
+    "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8"
+  },
+  {
+    "name": "PolimerNews TV",
+    "logo": "https://i.imgur.com/CxcuvXX.png",
+    "group": "enter",
+    "desc": "Watch PolimerNews TV Live Streaming", 
+    "url": "https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8"
+  },
+  {
+    "name": "TamilVision TV",
+    "logo": "https://i.imgur.com/DodsLuW.png",
+    "group": "enter",
+    "desc": "Watch TamilVision TV Live Streaming", 
+    "url": "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8"
+  },
+  {
+    "name": "ThanthiOne TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaQKdmdiu7iORzWeeIaeMTSFVXazVHFXMAp2RoevnRYJsy4O8_cGmQl6wHcUTFu1P7MA&usqp=CAU",
+    "group": "enter",
+    "desc": "Watch ThanthiOne TV Live Streaming", 
+    "url": "https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8"
+  },
+  {
+    "name": "Thanthi TV",
+    "logo": "https://i.imgur.com/200ROjU.png",
+    "group": "enter",
+    "desc": "Watch Thanthi TV Live Streaming", 
+    "url": "https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8"
+  },
+  {
+    "name": "DD Tamil",
+    "logo": "live.jpg",
+    "group": "enter",
+    "desc": "Watch DD Tamil Live Streaming", 
+    "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8"
   }
 ]
