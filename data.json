@@ -1,17 +1,12 @@
 [
   {
-    "name": "Sony Sports Ten 1 HD",
-    "logo": "https://tatalogo.pages.dev/81.png",
-    "desc": "Watch Live Streaming Sony Sports Ten 1 HD",
+    "name": "Willow",
+    "logo": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
+    "desc": "Watch Live Streaming Willow HD",
     "group": "sports",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8"
-  },
-  {
-    "name": "Ind vs Ban",
-    "logo": "https://i.ibb.co/NSbMVJC/Screenshot-2024-10-06-183208.png",
-    "desc": "Watch Live Streaming Sony Sports Ten 1 HD",
-    "group": "sports",
-    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/hd_akamai_iosmob_avc_tam_indvsban_121024/master.m3u8"
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/upyv4mbcv4/out/v1/877455a9384a40e7a4bb96e166d39ef7/cenc.mpd",
+    "license_key": "1ef1ba30f79294c62cc5d0e86a492f15",
+    "license_key2": "9919b84dfecb9d3aaf3a2382608ea7a1"
   },
   {
     "name": "Sony Sports Ten 2 HD",
